@@ -1,3 +1,3 @@
 Group Delta will be creating a Fitness App.
 
-The app will include creating personal workout splits, the option of marking when the user works out, groupchat functionality (photos/videos/text), add friends, nutrition tracker, goal setup, leaderboards within friends, suggested exercises + reviews
+The Lunki application allows users to make friends, set goals, help others, and become healthier in the process. This document contains the class diagram which shows the structure for our app Lunki. It also has a use case diagram illustrating the individuals and the roles that go with them. A use case Scenario is also used to show the path of navigation through our app. Finally we have system sequence charts that will with diagrams show the relationship between the user and the system. All of the following documents compiled together make a system requirements document.
